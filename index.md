@@ -1,1 +1,1 @@
-[api](api/index.md)
+[api](api/)
